@@ -1,2 +1,2 @@
-# AutoSocial
- Social Media AutoBot
+# FlowerMarket
+An Automated Telegram Bot for Sellers
